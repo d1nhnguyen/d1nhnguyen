@@ -1,5 +1,6 @@
 ## Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d1nhnguyen)](https://github.com/d1nhnguyen/github-readme-stats)
+<br/>
 <img alt = "top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1nhnguyen&layout=compact"/>
 <!--
 **d1nhnguyen/d1nhnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
